@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercises/10-hashmaps/hashmaps.md",
+                "file": "exercises/01-working-with-numbers/working-with-numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hashmaps"
+              "title": "working-with-numbers"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -171,6 +173,10 @@
   },
   "active": "0f99a5e368b2e7ad",
   "lastOpenFiles": [
+    "exercises/10-hashmaps/desktop.ini",
+    "exercises/01-working-with-numbers/desktop.ini",
+    "images/desktop.ini",
+    "desktop.ini",
     "exercises/10-hashmaps/hashmaps.md",
     "exercises/04-projects/class-gops.md",
     "exercises/06-class/class-intro.md",
@@ -198,10 +204,7 @@
     "exercises/05-arrays/arrays-methods.md",
     "README.md",
     "exercises/06-class",
-    "images/desktop.ini",
     "images/step1.png",
-    "images",
-    "exercises/04-projects",
     "exercises/04 - projects.md",
     "exercises/03-methods/methods.md",
     "exercises/03-methods/methods-Guse’s Mac mini.md",
@@ -210,7 +213,6 @@
     "exercises/03-functions/functions-Guse’s Mac mini-5.md",
     "exercises/03-functions/functions-Guse’s Mac mini-4.md",
     "exercises/03-functions/functions-Guse’s Mac mini-3.md",
-    "exercises/02-functions/functions-Guse’s Mac mini-2.md",
-    "exercises/02-functions/functions-Guse’s Mac mini.md"
+    "exercises/02-functions/functions-Guse’s Mac mini-2.md"
   ]
 }
