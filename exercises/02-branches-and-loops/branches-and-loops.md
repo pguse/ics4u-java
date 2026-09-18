@@ -165,3 +165,42 @@ int number = 10
 ```
 The number 10 is NOT a perfect number.
 ```
+
+## 03-5: Leap Year
+
+In **IntelliJ IDEA**, create a **New Project** called LeapYear.
+
+In the **src** folder create a **Java class** file called LeapYear.java*.
+
+A leap year (in the Gregorian calendar) occurs:
+
+- In every year that is evenly divisible by 4.
+- Unless the year is evenly divisible by 100, in which case it's only a leap year if the year is also evenly divisible by 400.
+
+Some examples:
+
+- 1997 was not a leap year as it's not divisible by 4.
+- 1900 was not a leap year as it's not divisible by 400.
+- 2000 was a leap year!
+
+## Instructions
+
+Your task is to determine whether a given year is a leap year. Just store the possible year in a variable and test it with an *if-statement*. You do not need to have user-input.
+
+## 03-6: FizzBuzz
+
+In **IntelliJ IDEA**, create a **New Project** called FizzBuzz.
+
+In the **src** folder create a **Java class** file called FizzBuzz.java*.
+
+- Based on a traditional English children's game
+
+## Instructions
+
+Your task is to:
+
+- Print the numbers 1..100
+- For multiples of 3, print "Fizz" instead of the number
+- For multiples of 5, print "Buzz" instead of the number
+- For multiples of 3 and 5, print "FizzBuzz" instead of the number
+- For all other values, simply print the number

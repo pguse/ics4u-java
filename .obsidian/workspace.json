@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercises/01-working-with-numbers/working-with-numbers.md",
+                "file": "exercises/02-branches-and-loops/branches-and-loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "working-with-numbers"
+              "title": "branches-and-loops"
             }
           }
         ]
@@ -173,6 +173,8 @@
   },
   "active": "0f99a5e368b2e7ad",
   "lastOpenFiles": [
+    "exercises/03-methods/methods.md",
+    "exercises/01-working-with-numbers/working-with-numbers.md",
     "exercises/10-hashmaps/desktop.ini",
     "exercises/01-working-with-numbers/desktop.ini",
     "images/desktop.ini",
@@ -203,12 +205,9 @@
     "exercises/04-projects/secret-word-game.md",
     "exercises/05-arrays/arrays-methods.md",
     "README.md",
-    "exercises/06-class",
     "images/step1.png",
     "exercises/04 - projects.md",
-    "exercises/03-methods/methods.md",
     "exercises/03-methods/methods-Guse’s Mac mini.md",
-    "exercises/01-working-with-numbers/working-with-numbers.md",
     "exercises/02-branches-and-loops/branches-and-loops.md",
     "exercises/03-functions/functions-Guse’s Mac mini-5.md",
     "exercises/03-functions/functions-Guse’s Mac mini-4.md",
