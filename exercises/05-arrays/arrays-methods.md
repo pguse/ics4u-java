@@ -144,8 +144,11 @@ In the **src** folder create a **Java class** file called *TicTacToe.java* with 
 ```java
 public class TicTacToe {  
     public static void main(String[] args) {  
-            char[] board = {'X', 'O', 'X', 'O', 'X', '-', '-', 'X', 'O'};  
-            display(board);  
+	    char[] board = {'X', 'O', 'X', 'O', 'X', '-', '-', 'X', 'O'};  
+	    display(board);
+	    System.out.println();  
+	    System.out.println("Win? " + isWin(board));  
+	    System.out.println("Tie? " + isTie(board));
     }  
   
     public static void display(char[] b) {  
@@ -155,10 +158,7 @@ public class TicTacToe {
             } else {  
                 System.out.printf("%c  ", b[i]);  
             }  
-        }  
-        System.out.println();  
-        System.out.println("Win? " + isWin(b));  
-        System.out.println("Tie? " + isTie(b));  
+        }    
     }  
   
     public static boolean isWin(char[] b) {  
