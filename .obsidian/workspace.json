@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "class-intro"
             }
+          },
+          {
+            "id": "1c20f73897d55af9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exercises/07-string/string.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "string"
+            }
+          },
+          {
+            "id": "64fa862ff4a7e3f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exercises/07-string/files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,8 +200,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f99a5e368b2e7ad",
+  "active": "64fa862ff4a7e3f9",
   "lastOpenFiles": [
+    "exercises/07-string/string.md",
+    "exercises/07-string/files.md",
     "exercises/04-projects/secret-word-game.md",
     "exercises/05-arrays/arrays-methods.md",
     "exercises/05-arrays/arrays.md",
@@ -203,7 +234,6 @@
     "exercises/output.png",
     "output.png",
     "exercises/08-2d-arrays/2d arrays.md",
-    "exercises/07-string/string.md",
     "exercises/08-2d-arrays",
     "README.md",
     "images/step1.png",
