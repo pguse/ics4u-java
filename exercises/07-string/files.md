@@ -14,10 +14,10 @@ public class Main {
   
         File myObj = new File("src/input.txt");  
         Scanner myReader = new Scanner(myObj);  
-        StringBuilder data = new StringBuilder(new String());  
+        StringBuilder data = new StringBuilder();  
   
         while (myReader.hasNextLine()) {  
-            data.append(myReader.nextLine() + "\n");  
+            data.append(myReader.nextLine()).append("\n");  
         }  
         System.out.println(data);  
   
