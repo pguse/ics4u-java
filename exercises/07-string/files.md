@@ -5,23 +5,30 @@
 Here is a file example using a file called `input.txt` stored in the `src` folder. It counts the number of letter `a's` in the text file.
 
 ```java
+import java.io.File;  
 import java.io.IOException;  
-import java.nio.file.Files;  
-import java.nio.file.Path;  
+import java.util.Scanner;  
   
 public class Main {  
     public static void main(String[] args) throws IOException {  
-        // String data = read("src/input.txt");  
-        String data = Files.readString(Path.of("src/input.txt"));  
+  
+        File myObj = new File("src/input.txt");  
+        Scanner myReader = new Scanner(myObj);  
+        StringBuilder data = new StringBuilder(new String());  
+  
+        while (myReader.hasNextLine()) {  
+            data.append(myReader.nextLine() + "\n");  
+        }  
+        System.out.println(data);  
+  
         int counter = 0;  
-        for(char letter:  data.toCharArray()) {  
-            //if (String.valueOf(letter).equalsIgnoreCase("a")) {  
+        for (char letter : data.toString().toCharArray()) {  
             if (letter == 'a' || letter == 'A') {  
                 counter++;  
             }  
         }  
         System.out.println("Number of a's: " + counter);  
-    }   
+    }  
 }
 ```
 
