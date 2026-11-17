@@ -115,7 +115,8 @@ public class MaxMinArrayElements {
         for (int i = 1; i < arr.length; i++) {  
             // Check if the current element is greater than the max element  
   
-            // Check if the current element is less than the min element        }  
+            // Check if the current element is less than the min element        
+            }  
         System.out.println("Max: " + max);  
         System.out.println("Min: " + min);  
     }  
