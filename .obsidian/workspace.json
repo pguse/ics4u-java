@@ -171,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "344f611b1de9fbc6",
+  "active": "84b0685ae1a6e0b4",
   "lastOpenFiles": [
-    "exercises/11-algorithms/desktop.ini",
+    "exercises/03-methods/methods.md",
     "exercises/11-algorithms/searching.md",
+    "exercises/11-algorithms/desktop.ini",
     "exercises/11-algorithms",
     "exercises/06-class/class-intro.md",
     "exercises/07-string/string.md",
@@ -185,7 +186,6 @@
     "exercises/04-projects/guessing-game.md",
     "exercises/01-working-with-numbers/working-with-numbers.md",
     "exercises/02-branches-and-loops/branches-and-loops.md",
-    "exercises/03-methods/methods.md",
     "exercises/10-hashmaps/desktop.ini",
     "exercises/01-working-with-numbers/desktop.ini",
     "images/desktop.ini",
@@ -203,7 +203,6 @@
     "notes/desktop.ini",
     "notes/13-enums",
     "notes",
-    "exercises/09-enums",
     "images/output.png",
     "exercises/output.png",
     "output.png",
