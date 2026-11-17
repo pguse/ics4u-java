@@ -1,4 +1,6 @@
 
+## Algorithms - Searching
+
 In **IntelliJ IDEA**, create a **New Project** called **Search**.
 
 In the **src** folder create a Java class file called `Search.java` with the following methods:
