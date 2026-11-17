@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "searching.md",
+                "file": "exercises/11-algorithms/searching.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84b0685ae1a6e0b4",
+  "active": "344f611b1de9fbc6",
   "lastOpenFiles": [
     "exercises/11-algorithms/desktop.ini",
-    "searching.md",
+    "exercises/11-algorithms/searching.md",
     "exercises/11-algorithms",
     "exercises/06-class/class-intro.md",
     "exercises/07-string/string.md",
